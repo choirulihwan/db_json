@@ -1,0 +1,85 @@
+{
+"products" :
+[{
+    "id": 1,
+    "name": "African pied wagtail",
+    "category": "Purple"
+  }, {
+    "id": 2,
+    "name": "Bent-toed gecko",
+    "category": "Green"
+  }, {
+    "id": 3,
+    "name": "Peccary, collared",
+    "category": "Teal"
+  }, {
+    "id": 4,
+    "name": "Dolphin, bottle-nose",
+    "category": "Purple"
+  }, {
+    "id": 5,
+    "name": "White-tailed deer",
+    "category": "Turquoise"
+  }, {
+    "id": 6,
+    "name": "Peacock, indian",
+    "category": "Pink"
+  }, {
+    "id": 7,
+    "name": "Long-billed cockatoo",
+    "category": "Maroon"
+  }, {
+    "id": 8,
+    "name": "Common zebra",
+    "category": "Maroon"
+  }, {
+    "id": 9,
+    "name": "Alligator, mississippi",
+    "category": "Crimson"
+  }, {
+    "id": 10,
+    "name": "Columbian rainbow boa",
+    "category": "Goldenrod"
+  }, {
+    "id": 11,
+    "name": "Cobra, cape",
+    "category": "Yellow"
+  }, {
+    "id": 12,
+    "name": "Waved albatross",
+    "category": "Yellow"
+  }, {
+    "id": 13,
+    "name": "Dragonfly, russian",
+    "category": "Goldenrod"
+  }, {
+    "id": 14,
+    "name": "Weaver, lesser masked",
+    "category": "Crimson"
+  }, {
+    "id": 15,
+    "name": "Squirrel, arctic ground",
+    "category": "Orange"
+  }, {
+    "id": 16,
+    "name": "Ovenbird",
+    "category": "Maroon"
+  }, {
+    "id": 17,
+    "name": "Sungazer, yellow-brown",
+    "category": "Aquamarine"
+  }, {
+    "id": 18,
+    "name": "Ass, asiatic wild",
+    "category": "Teal"
+  }, {
+    "id": 19,
+    "name": "Malabar squirrel",
+    "category": "Green"
+  }, {
+    "id": 20,
+    "name": "Red sheep",
+    "category": "Mauv"
+  }
+]
+}
